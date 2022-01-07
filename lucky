@@ -1,0 +1,41 @@
+1.git init
+2.git status
+3.git config --global user.name "siva"
+4.git config --global user email "ysivalakshmi15@gmail.com"
+5.git config --list
+6.git config -- global unset user name
+7.git config --global unset user email
+8.touch file1
+9.ls
+10.git status
+11.git add file1
+12.git status
+13.git commit -m"lable"file1
+14.git status
+15.git log
+16.git show commit id
+17.touch file2
+multipule file adding
+touch file2 file3 file4,,,,,,n
+18.ls
+19.git status 
+20.git add file2 file3 file4 
+or
+21.git add *
+or
+22.git add .
+or
+23.git add -A
+24.git status
+25.git commit -m"lable"
+26.git show cid
+27.git clone https://git hub.com/ylaks461/mahes.git
+28.ls
+29.cd mahesh
+30.ls
+31.touch devops
+32.git add
+33.git commit -m"sample file"
+34.git push
+
+
